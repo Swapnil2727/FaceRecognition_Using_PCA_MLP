@@ -5,7 +5,7 @@ I performed Face recogniton on LFW data sets using Principal Component Analysis 
 
 Performed test on Few Data From LFW data sets and Find Below Clasification Report.
 
- |  Data Label|      | precision |   recall | f1-score |  support
+ |  Data Label  |       precision |   recall | f1-score |  support
 |--------------|-----------------|----------|----------|---------|
  | Donald Rumsfeld |      0.78  |    0.81 |     0.79 |       36 |
  |   George W Bush  |     0.93   |   0.94  |    0.94  |     162  |
